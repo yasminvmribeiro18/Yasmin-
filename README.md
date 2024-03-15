@@ -1,4 +1,4 @@
-#👋🏻 Hi,I'am Yasmin Ribeiro 
-Estudante de Ciências da computação
+#👋🏻 Hi, I'am Yasmin Ribeiro 
+# computer science student
 
 
